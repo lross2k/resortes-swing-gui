@@ -1,0 +1,9 @@
+# Default ignored files
+.idea/shelf/
+.idea/workspace.xml
+
+# Build
+/target
+
+# Zip files downloaded
+*.zip
